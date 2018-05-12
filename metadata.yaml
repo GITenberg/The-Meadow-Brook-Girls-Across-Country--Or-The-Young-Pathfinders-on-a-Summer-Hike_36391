@@ -1,0 +1,27 @@
+_repo: The-Meadow-Brook-Girls-Across-Country--Or-The-Young-Pathfinders-on-a-Summer-Hike_36391
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aldridge, Janet
+    gutenberg_agent_id: '5139'
+    url: http://www.gutenberg.org/2009/agents/5139
+description: ''
+gutenberg_issued: '2011-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36391'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Romanies -- Juvenile fiction'
+- !lcsh 'Hiking -- Juvenile fiction'
+- !lcsh 'Young women -- Juvenile fiction'
+title: The Meadow-Brook Girls Across Country; Or, The Young Pathfinders on a Summer
+  Hike
+url: http://www.gutenberg.org/ebooks/36391
