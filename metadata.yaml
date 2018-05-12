@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '5139'
     url: http://www.gutenberg.org/2009/agents/5139
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36391#The-Meadow-Brook-Girls-Across-Country--Or-The-Young-Pathfinders-on-a-Summer-Hike
 gutenberg_issued: '2011-06-12'
 gutenberg_type: Text
 identifiers:
